@@ -4,7 +4,7 @@ CM20219 - Fundamentals of Computer Graphics
 The project consists of parsing and rendereing motion-capture data in 3D using OpenGL and C.
 
 
-Running the solution
+Running the program
 --------------------
 
 From a command line run: mocaptest <asf file> <amc file>
